@@ -2,3 +2,21 @@ html {
   height: 100%;
   width: 100%;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.grid-item {
+  padding: 20px;
+  text-align: center;
+}
+.COSI {
+  background-color: mistyrose;
+  color: mistyrose
+  border: 2px solid :lightcoral;
+  margin: 20px;
+  padding: 20px;
+  font-family 'Courier New', Courier, monospace;
+}
